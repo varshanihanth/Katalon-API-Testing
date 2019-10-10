@@ -1,0 +1,23 @@
+{"testCaseName":"Test Cases/Get Asset and Site Count API","testCaseId":"Test Cases/Get Asset and Site Count API"}
+{"testCaseName":"Test Cases/Get Device Availability Card API","testCaseId":"Test Cases/Get Device Availability Card API"}
+{"testCaseName":"Test Cases/Get Diesel Consumption API","testCaseId":"Test Cases/Get Diesel Consumption API"}
+{"testCaseName":"Test Cases/Get Diesel Range API","testCaseId":"Test Cases/Get Diesel Range API"}
+{"testCaseName":"Test Cases/Get Alerts Card","testCaseId":"Test Cases/Get Alerts Card"}
+{"testCaseName":"Test Cases/Get Energy Consumption API","testCaseId":"Test Cases/Get Energy Consumption API"}
+{"testCaseName":"Test Cases/Get Battery status card","testCaseId":"Test Cases/Get Battery status card"}
+{"testCaseName":"Test Cases/Get health check, metrics, and HTTP trace","testCaseId":"Test Cases/Get health check, metrics, and HTTP trace"}
+{"testCaseName":"Test Cases/Get HVAC","testCaseId":"Test Cases/Get HVAC"}
+{"testCaseName":"Test Cases/Get Sites list","testCaseId":"Test Cases/Get Sites list"}
+{"testCaseName":"Test Cases/Get Site Listing_Battery bank_MS","testCaseId":"Test Cases/Get Site Listing_Battery bank_MS"}
+{"testCaseName":"Test Cases/Get Sites Listing_Battery Bank","testCaseId":"Test Cases/Get Sites Listing_Battery Bank"}
+{"testCaseName":"Test Cases/Get Battery status card","testCaseId":"Test Cases/Get Battery status card"}
+{"testCaseName":"Test Cases/Get Site Details Page_MS","testCaseId":"Test Cases/Get Site Details Page_MS"}
+{"testCaseName":"Test Cases/Get Historical_CSV_Data","testCaseId":"Test Cases/Get Historical_CSV_Data"}
+{"testCaseName":"Test Cases/Get Device History","testCaseId":"Test Cases/Get Device History"}
+{"testCaseName":"Test Cases/Get Thermal Image","testCaseId":"Test Cases/Get Thermal Image"}
+{"testCaseName":"Test Cases/Get Camera Image_Thermal","testCaseId":"Test Cases/Get Camera Image_Thermal"}
+{"testCaseName":"Test Cases/Get Battery Bank Cell Details","testCaseId":"Test Cases/Get Battery Bank Cell Details"}
+{"testCaseName":"Test Cases/Get Site Map","testCaseId":"Test Cases/Get Site Map"}
+{"testCaseName":"Test Cases/Get Site Map Data","testCaseId":"Test Cases/Get Site Map Data"}
+{"testCaseName":"Test Cases/Get Forgot Password","testCaseId":"Test Cases/Get Forgot Password"}
+{"testCaseName":"Test Cases/Get Reset Password","testCaseId":"Test Cases/Get Reset Password"}

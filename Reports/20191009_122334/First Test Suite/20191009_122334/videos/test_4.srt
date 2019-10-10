@@ -1,0 +1,8 @@
+1
+00:00:00,280 --> 00:00:00,285
+1. response = sendRequest(findTestObject("diesel Level range api"))
+
+2
+00:00:01,085 --> 00:00:01,091
+5. verifyResponseStatusCode(response, 200)
+

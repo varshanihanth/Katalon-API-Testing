@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-26T15:04:46</date>
+  <millis>1569490486303</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/First Test Suite</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">First Test Suite</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/First Test Suite</property>
+</record>
+<record>
+  <date>2019-09-26T15:04:46</date>
+  <millis>1569490486368</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = techolution - host.docker.internal</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">techolution - host.docker.internal</property>
+</record>
+<record>
+  <date>2019-09-26T15:04:46</date>
+  <millis>1569490486369</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-09-26T15:04:46</date>
+  <millis>1569490486370</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.10.192</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.10.192</property>
+</record>
+<record>
+  <date>2019-09-26T15:04:46</date>
+  <millis>1569490486372</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.3.3.11</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.3.3.11</property>
+</record>
+<record>
+  <date>2019-09-26T15:04:46</date>
+  <millis>1569490486768</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Get Asset and Site Count API</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Get Asset and Site Count API</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Get Asset and Site Count API</property>
+  <property name="source">C:\\Users\\techolution\\Katalon Studio\\My First API Project\\Test Cases\\Get Asset and Site Count API.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-09-26T15:04:47</date>
+  <millis>1569490487322</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(\&amp;quot;Asset and site Count Api\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-09-26T15:04:49</date>
+  <millis>1569490489874</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: C:\\Users\\techolution\\Katalon Studio\\My First API Project\\Reports\\20190926_150413\\First Test Suite\\20190926_150413\\requests\\main\\0.har</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="harId">e4e9452a-c386-4834-8f5b-a8817f8e3636</property>
+</record>
+<record>
+  <date>2019-09-26T15:04:49</date>
+  <millis>1569490489998</millis>
+  <sequence>11</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-26T15:04:49</date>
+  <millis>1569490489999</millis>
+  <sequence>12</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(\&amp;quot;Asset and site Count Api\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-26T15:04:50</date>
+  <millis>1569490490000</millis>
+  <sequence>13</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Get Asset and Site Count API</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-26T15:04:50</date>
+  <millis>1569490490001</millis>
+  <sequence>14</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Get Asset and Site Count API</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-09-26T15:04:50</date>
+  <millis>1569490490102</millis>
+  <sequence>15</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/First Test Suite</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-26T15:56:41</date>
+  <millis>1569493601640</millis>
+  <sequence>44</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1472</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har5055052359176394950\\requests\\ModalContext\\0.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">a1a442b8-6c94-4bd2-8865-f81b04270161</property>
+</record>
+<record>
+  <date>2019-09-26T16:23:30</date>
+  <millis>1569495210098</millis>
+  <sequence>235</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1518</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har9042443416162709389\\requests\\ModalContext\\1.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">e5ef08fb-9556-443a-a01e-02cb36711765</property>
+</record>
+<record>
+  <date>2019-09-26T16:29:10</date>
+  <millis>1569495550323</millis>
+  <sequence>243</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1544</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har7323268487288062958\\requests\\ModalContext\\2.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">eb2133e1-1063-41c8-a3b4-14ae23fd04bf</property>
+</record>
+<record>
+  <date>2019-09-27T19:01:23</date>
+  <millis>1569591083963</millis>
+  <sequence>438</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1799</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har4643080955754770550\\requests\\ModalContext\\3.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">6a7a5fd5-18f3-4684-97ec-ace6b5aa97e2</property>
+</record>
+<record>
+  <date>2019-09-27T19:01:48</date>
+  <millis>1569591108932</millis>
+  <sequence>439</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1805</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har5205152258655170698\\requests\\ModalContext\\4.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">6bd76458-81dd-4769-93b8-07ccc1c42a90</property>
+</record>
+<record>
+  <date>2019-09-30T15:46:52</date>
+  <millis>1569838612867</millis>
+  <sequence>1784</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2556</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har5783372192428137486\\requests\\ModalContext\\5.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">5c040183-9de1-4e4e-a297-99d6f07e8aba</property>
+</record>
+<record>
+  <date>2019-09-30T15:47:02</date>
+  <millis>1569838622452</millis>
+  <sequence>1785</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2561</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har4176745567271131789\\requests\\ModalContext\\6.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">6d7da098-c8aa-429f-99f0-2bcafe0d50aa</property>
+</record>
+<record>
+  <date>2019-09-30T15:48:49</date>
+  <millis>1569838729779</millis>
+  <sequence>1793</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2591</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har2358802210902974284\\requests\\ModalContext\\7.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">526fd805-d869-440f-a828-642ca43c0c05</property>
+</record>
+<record>
+  <date>2019-09-30T15:49:09</date>
+  <millis>1569838749093</millis>
+  <sequence>1801</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2601</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har5118151096497308721\\requests\\ModalContext\\8.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">1b575bb9-24ae-4d6d-a65d-a6216793da42</property>
+</record>
+<record>
+  <date>2019-09-30T15:49:26</date>
+  <millis>1569838766252</millis>
+  <sequence>1802</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2606</thread>
+  <message>HAR: C:\\Users\\TECHOL~1\\AppData\\Local\\Temp\\har3003638038412149459\\requests\\ModalContext\\9.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">58204c19-ef55-4f60-b2c8-31a8ca2433c4</property>
+</record>
+</log>

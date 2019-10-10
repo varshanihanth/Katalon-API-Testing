@@ -1,0 +1,4 @@
+1
+00:00:00,273 --> 00:00:00,276
+1. sendRequest(findTestObject("Battery Bank Cell Detaails"))
+

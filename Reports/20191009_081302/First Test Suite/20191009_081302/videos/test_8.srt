@@ -1,0 +1,4 @@
+1
+00:00:00,218 --> 00:00:00,220
+1. response = sendRequest(findTestObject("health check, metrics, and HTTP trace"))
+

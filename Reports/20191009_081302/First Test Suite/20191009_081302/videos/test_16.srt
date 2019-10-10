@@ -1,0 +1,4 @@
+1
+00:00:00,278 --> 00:00:00,279
+1. sendRequest(findTestObject("Device History"))
+

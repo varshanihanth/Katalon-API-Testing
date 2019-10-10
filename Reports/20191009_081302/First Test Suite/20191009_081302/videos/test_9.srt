@@ -1,0 +1,8 @@
+1
+00:00:00,328 --> 00:00:00,330
+1. response = sendRequest(findTestObject("HVAC"))
+
+2
+00:00:01,193 --> 00:00:01,195
+5. verifyResponseStatusCode(response, 200)
+

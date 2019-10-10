@@ -1,0 +1,8 @@
+1
+00:00:00,191 --> 00:00:00,192
+1. response = sendRequest(findTestObject("Battery status card"))
+
+2
+00:00:00,597 --> 00:00:00,598
+5. verifyResponseStatusCode(response, 200)
+

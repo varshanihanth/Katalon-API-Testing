@@ -1,0 +1,8 @@
+1
+00:00:00,265 --> 00:00:00,267
+1. response = sendRequest(findTestObject("Sites list"))
+
+2
+00:00:00,800 --> 00:00:00,804
+5. verifyResponseStatusCode(response, 200)
+

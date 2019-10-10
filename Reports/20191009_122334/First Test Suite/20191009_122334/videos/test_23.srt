@@ -1,0 +1,4 @@
+1
+00:00:00,214 --> 00:00:00,218
+1. sendRequest(findTestObject("Reset Password"))
+

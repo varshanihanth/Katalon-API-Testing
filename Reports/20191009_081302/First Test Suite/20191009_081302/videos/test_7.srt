@@ -1,0 +1,16 @@
+1
+00:00:00,273 --> 00:00:00,275
+1. response = sendRequest(findTestObject("Battery status card_SOC"))
+
+2
+00:00:00,774 --> 00:00:00,776
+5. verifyResponseStatusCode(response, 200)
+
+3
+00:00:00,790 --> 00:00:00,791
+9. sendRequest(findTestObject("Batter status Card_SOH"))
+
+4
+00:00:01,283 --> 00:00:01,286
+13. sendRequest(findTestObject("Batter Status Card_Battery Bank"))
+

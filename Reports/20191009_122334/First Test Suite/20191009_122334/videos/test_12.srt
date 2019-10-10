@@ -1,0 +1,8 @@
+1
+00:00:00,218 --> 00:00:00,219
+1. response = sendRequest(findTestObject("Sites Listing_Battery Bank_MS"))
+
+2
+00:00:01,066 --> 00:00:01,068
+5. verifyResponseStatusCode(response, 200)
+

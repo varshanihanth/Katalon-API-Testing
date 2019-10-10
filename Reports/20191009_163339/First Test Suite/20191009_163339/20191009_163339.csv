@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+First Test Suite,,,,2019-10-09 16:33:49,2019-10-09 16:34:01,12.091s,PASSED
+,,,,,,,
+Test Cases/Get Asset and Site Count API,,,,2019-10-09 16:33:49,2019-10-09 16:33:55,5.783s,PASSED
+"response = sendRequest(findTestObject(""Asset and site Count Api""))",,,,2019-10-09 16:33:50,2019-10-09 16:33:53,2.803s,PASSED
+"verifyResponseStatusCode(response, 200)",,,,2019-10-09 16:33:53,2019-10-09 16:33:53,0.052s,PASSED
+Video,,,,2019-10-09 16:33:55,2019-10-09 16:33:55,0.004s,PASSED
+,,,,,,,
+Test Cases/Get Device Availability Card API,,,,2019-10-09 16:33:55,2019-10-09 16:33:58,3.163s,PASSED
+"response = sendRequest(findTestObject(""Device Availability Card Api""))",,,,2019-10-09 16:33:55,2019-10-09 16:33:56,0.661s,PASSED
+"verifyResponseStatusCode(response, 200)",,,,2019-10-09 16:33:56,2019-10-09 16:33:56,0.028s,PASSED
+Video,,,,2019-10-09 16:33:58,2019-10-09 16:33:58,0.003s,PASSED
+,,,,,,,
+Test Cases/Get Diesel Consumption API,,,,2019-10-09 16:33:58,2019-10-09 16:34:01,2.797s,PASSED
+"response = sendRequest(findTestObject(""Diesel consumption api""))",,,,2019-10-09 16:33:58,2019-10-09 16:33:59,0.497s,PASSED
+"verifyResponseStatusCode(response, 200)",,,,2019-10-09 16:33:59,2019-10-09 16:33:59,0.020s,PASSED
+Video,,,,2019-10-09 16:34:01,2019-10-09 16:34:01,0.002s,PASSED

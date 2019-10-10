@@ -1,0 +1,8 @@
+1
+00:00:00,525 --> 00:00:00,531
+1. response = sendRequest(findTestObject("Asset and site Count Api"))
+
+2
+00:00:03,471 --> 00:00:03,474
+5. verifyResponseStatusCode(response, 200)
+

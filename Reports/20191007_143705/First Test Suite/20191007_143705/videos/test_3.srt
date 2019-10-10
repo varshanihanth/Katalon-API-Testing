@@ -1,0 +1,8 @@
+1
+00:00:00,178 --> 00:00:00,180
+1. response = sendRequest(findTestObject("Diesel consumption api"))
+
+2
+00:00:00,576 --> 00:00:00,577
+5. verifyResponseStatusCode(response, 200)
+

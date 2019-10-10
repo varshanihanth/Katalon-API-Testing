@@ -1,0 +1,8 @@
+1
+00:00:00,400 --> 00:00:00,402
+1. response = sendRequest(findTestObject("energy consumption api"))
+
+2
+00:00:00,944 --> 00:00:00,948
+5. verifyResponseStatusCode(response, 200)
+

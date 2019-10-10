@@ -1,0 +1,4 @@
+1
+00:00:00,242 --> 00:00:00,243
+1. sendRequest(findTestObject("Camera Image_Thermal"))
+

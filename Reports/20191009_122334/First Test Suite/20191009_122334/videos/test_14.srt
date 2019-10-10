@@ -1,0 +1,8 @@
+1
+00:00:00,382 --> 00:00:00,385
+1. sendRequest(findTestObject("Site Details Page"))
+
+2
+00:00:01,276 --> 00:00:01,277
+5. sendRequest(findTestObject("Sites DetailsPage_MS"))
+

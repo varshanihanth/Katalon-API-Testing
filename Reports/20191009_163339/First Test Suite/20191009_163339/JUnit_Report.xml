@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="First Test Suite" time="19" tests="3" failures="0" errors="0">
+   <testsuite name="First Test Suite" tests="3" failures="0" errors="0" time="19" timestamp="2019-10-09 16:33:49" hostname="techolution - host.docker.internal" id="Test Suites/First Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\techolution\\Katalon Studio\\Telecom API Demo\\Reports\\20191009_163339\\First Test Suite\\20191009_163339"/>
+         <property name="logFiles" value="C:\\Users\\techolution\\Katalon Studio\\Telecom API Demo\\Reports\\20191009_163339\\First Test Suite\\20191009_163339\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\techolution\\Katalon Studio\\Telecom API Demo\\Reports\\20191009_163339\\First Test Suite\\20191009_163339/videos\\test_1.avi, C:\\Users\\techolution\\Katalon Studio\\Telecom API Demo\\Reports\\20191009_163339\\First Test Suite\\20191009_163339/videos\\test_2.avi, C:\\Users\\techolution\\Katalon Studio\\Telecom API Demo\\Reports\\20191009_163339\\First Test Suite\\20191009_163339/videos\\test_3.avi"/>
+         <property name="hostName" value="techolution - host.docker.internal"/>
+         <property name="hostAddress" value="192.168.10.192"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.0.0.1"/>
+      </properties>
+      <testcase name="Test Cases/Get Asset and Site Count API" classname="Test Cases/Get Asset and Site Count API" status="PASSED">
+         <system-out><![CDATA[2019-10-09 16:33:49 - [TEST_CASE][PASSED] - Test Cases/Get Asset and Site Count API: Test Cases/Get Asset and Site Count API
+
+2019-10-09 16:33:50 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("Asset and site Count Api")): Send request successfully
+
+2019-10-09 16:33:53 - [MESSAGE][INFO] - HAR: C:\Users\techolution\Katalon Studio\Telecom API Demo\Reports\20191009_163339\First Test Suite\20191009_163339\requests\main\0.har
+
+2019-10-09 16:33:53 - [MESSAGE][PASSED] - Send request successfully
+
+2019-10-09 16:33:53 - [TEST_STEP][PASSED] - verifyResponseStatusCode(response, 200): Verify response status code successfully
+
+2019-10-09 16:33:53 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2019-10-09 16:33:55 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Get Asset and Site Count API' .
+
+2019-10-09 16:33:55 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Get Asset and Site Count API' .
+[[ATTACHMENT|C:\\Users\\techolution\\Katalon Studio\\Telecom API Demo\\Reports\\20191009_163339\\First Test Suite\\20191009_163339/videos\\test_1.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Get Device Availability Card API" classname="Test Cases/Get Device Availability Card API" status="PASSED">
+         <system-out><![CDATA[2019-10-09 16:33:55 - [TEST_CASE][PASSED] - Test Cases/Get Device Availability Card API: Test Cases/Get Device Availability Card API
+
+2019-10-09 16:33:55 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("Device Availability Card Api")): Send request successfully
+
+2019-10-09 16:33:56 - [MESSAGE][INFO] - HAR: C:\Users\techolution\Katalon Studio\Telecom API Demo\Reports\20191009_163339\First Test Suite\20191009_163339\requests\main\1.har
+
+2019-10-09 16:33:56 - [MESSAGE][PASSED] - Send request successfully
+
+2019-10-09 16:33:56 - [TEST_STEP][PASSED] - verifyResponseStatusCode(response, 200): Verify response status code successfully
+
+2019-10-09 16:33:56 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2019-10-09 16:33:58 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Get Device Availability Card API' .
+
+2019-10-09 16:33:58 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Get Device Availability Card API' .
+[[ATTACHMENT|C:\\Users\\techolution\\Katalon Studio\\Telecom API Demo\\Reports\\20191009_163339\\First Test Suite\\20191009_163339/videos\\test_2.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Get Diesel Consumption API" classname="Test Cases/Get Diesel Consumption API" status="PASSED">
+         <system-out><![CDATA[2019-10-09 16:33:58 - [TEST_CASE][PASSED] - Test Cases/Get Diesel Consumption API: Test Cases/Get Diesel Consumption API
+
+2019-10-09 16:33:58 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("Diesel consumption api")): Send request successfully
+
+2019-10-09 16:33:59 - [MESSAGE][INFO] - HAR: C:\Users\techolution\Katalon Studio\Telecom API Demo\Reports\20191009_163339\First Test Suite\20191009_163339\requests\main\2.har
+
+2019-10-09 16:33:59 - [MESSAGE][PASSED] - Send request successfully
+
+2019-10-09 16:33:59 - [TEST_STEP][PASSED] - verifyResponseStatusCode(response, 200): Verify response status code successfully
+
+2019-10-09 16:33:59 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2019-10-09 16:34:01 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Get Diesel Consumption API' .
+
+2019-10-09 16:34:01 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Get Diesel Consumption API' .
+[[ATTACHMENT|C:\\Users\\techolution\\Katalon Studio\\Telecom API Demo\\Reports\\20191009_163339\\First Test Suite\\20191009_163339/videos\\test_3.avi]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-10-09 16:33:49 - [TEST_SUITE][PASSED] - First Test Suite: Test Cases/Get Diesel Consumption API]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

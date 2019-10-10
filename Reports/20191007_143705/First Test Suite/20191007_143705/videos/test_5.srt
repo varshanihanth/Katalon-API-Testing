@@ -1,0 +1,8 @@
+1
+00:00:00,172 --> 00:00:00,173
+1. response = sendRequest(findTestObject("Alerts Card"))
+
+2
+00:00:00,559 --> 00:00:00,562
+5. verifyResponseStatusCode(response, 200)
+

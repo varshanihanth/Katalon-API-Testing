@@ -1,0 +1,8 @@
+1
+00:00:00,228 --> 00:00:00,229
+1. response = sendRequest(findTestObject("Device Availability Card Api"))
+
+2
+00:00:00,708 --> 00:00:00,711
+5. verifyResponseStatusCode(response, 200)
+
